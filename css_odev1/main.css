@@ -1,0 +1,59 @@
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .menu li {
+    float: left;
+  }
+  
+  .menu li a {
+    width: 100%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin: 0px 190px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+  }
+  
+  .menu li a:hover {
+    background-color: grey;
+  }
+
+  .products-block {
+      text-align: center;
+  }
+
+  .products-block li {
+    list-style-position: inside;
+  }
+
+  article {
+      text-align: center;
+  }
+
+  article li {
+      list-style-position: inside;
+  }
+
+  footer {
+      text-align: center;
+  }
+
+  h1 {
+      color: blue;
+  }
+
+  h2 {
+      color: chocolate;
+  }
+
+  footer {
+      text-transform: uppercase;
+  }
